@@ -64,7 +64,7 @@
 ### 1. 拿到项目
 
 ```bash
-git clone https://github.com/你的GitHub用户名/weread-to-ima.git
+git clone https://github.com/Siwuang/weread-to-ima.git
 ```
 
 ### 2. 填配置
