@@ -1,0 +1,67 @@
+{
+  "_说明": "复制本文件为 config.json 并填入你自己的配置。所有 ID 都是占位符。",
+  "workdir": "./data",
+  "weread": {
+    "api_key_env": "WEREAD_API_KEY",
+    "skill_version": "1.0.5",
+    "books": [
+      {
+        "abbr": "fq",
+        "book_id": "635942",
+        "title": "反脆弱"
+      },
+      {
+        "abbr": "rmrb",
+        "book_id": "MP_WXS_3089222529",
+        "title": "人民日报评论",
+        "type": "article"
+      },
+      {
+        "abbr": "fbl",
+        "book_id": "3300060305",
+        "title": "非暴力沟通"
+      },
+      {
+        "abbr": "zgxg",
+        "book_id": "26934843",
+        "title": "掌控习惯"
+      },
+      {
+        "abbr": "yrz",
+        "book_id": "602347",
+        "title": "元认知"
+      },
+      {
+        "abbr": "nwe",
+        "book_id": "44026191",
+        "title": "纳瓦尔宝典"
+      },
+      {
+        "abbr": "btyygq",
+        "book_id": "25615385",
+        "title": "被讨厌的勇气"
+      },
+      {
+        "abbr": "xwz",
+        "book_id": "3300207739",
+        "title": "小王子英文版"
+      }
+    ]
+  },
+  "ima": {
+    "client_id_env": "IMA_OPENAPI_CLIENTID",
+    "api_key_env": "IMA_OPENAPI_APIKEY",
+    "base_url": "https://ima.qq.com/openapi",
+    "notebook_folder_id": "folder_xxxxxxxxxxxxxxxx",
+    "kb_id": "YOUR_KNOWLEDGE_BASE_ID",
+    "kb_folder_id": "folder_xxxxxxxxxxxxxxxx"
+  },
+  "notes": [
+    {
+      "abbr": "fq",
+      "note_id": "YOUR_NOTE_ID_1",
+      "md_file": "note_fanchuiruo.md",
+      "name": "反脆弱"
+    }
+  ]
+}
